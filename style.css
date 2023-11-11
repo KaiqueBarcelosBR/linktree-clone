@@ -96,3 +96,18 @@ h2{
 .my-extra-links li:not(.divisor):hover a{
     color: var(--backgroud);
 }
+
+.link-2{
+    margin-top: 10px;
+}
+
+.link-2 a{
+    color: var(--azulMedio);
+    font-size: 25px;
+    margin: 0 5px;
+}
+
+canvas{
+    position: absolute;
+    z-index: -100;
+}
